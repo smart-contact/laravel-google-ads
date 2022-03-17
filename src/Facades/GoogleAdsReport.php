@@ -1,6 +1,6 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds\Facades;
+namespace SmartContact\LaravelGoogleAds\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

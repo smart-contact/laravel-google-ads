@@ -1,6 +1,6 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds;
+namespace SmartContact\LaravelGoogleAds;
 
 class GoogleAdsRow
 {

@@ -1,10 +1,10 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds;
+namespace SmartContact\LaravelGoogleAds;
 
-use AndreOrtu\LaravelGoogleAds\Exceptions\ColumnsNotImpementedException;
-use AndreOrtu\LaravelGoogleAds\Exceptions\DateNotImpementedException;
-use AndreOrtu\LaravelGoogleAds\Exceptions\ReportNameNotImpementedException;
+use SmartContact\LaravelGoogleAds\Exceptions\ColumnsNotImpementedException;
+use SmartContact\LaravelGoogleAds\Exceptions\DateNotImpementedException;
+use SmartContact\LaravelGoogleAds\Exceptions\ReportNameNotImpementedException;
 abstract class GoogleAdsReport
 {
     use Builder;

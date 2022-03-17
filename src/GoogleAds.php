@@ -1,6 +1,6 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds;
+namespace SmartContact\LaravelGoogleAds;
 
 use Google\Ads\GoogleAds\Lib\Configuration;
 use Google\Ads\GoogleAds\Lib\OAuth2TokenBuilder;

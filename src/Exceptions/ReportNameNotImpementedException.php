@@ -1,6 +1,6 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds\Exceptions;
+namespace SmartContact\LaravelGoogleAds\Exceptions;
 
 use Exception;
 use Throwable;

@@ -1,8 +1,8 @@
 <?php
 
-namespace AndreOrtu\LaravelGoogleAds;
+namespace SmartContact\LaravelGoogleAds;
 
-use AndreOrtu\LaravelGoogleAds\Exceptions\BuilderSelectException;
+use SmartContact\LaravelGoogleAds\Exceptions\BuilderSelectException;
 use Illuminate\Support\Str;
 
 trait Builder
