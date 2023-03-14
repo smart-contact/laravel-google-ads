@@ -1,19 +1,19 @@
 {
-    "name": "smart-contact/laravel-google-ads",
-    "description": "A laravel package for google ads",
-    "type": "library",
-    "autoload": {
-        "psr-4": {
-            "SmartContact\\LaravelGoogleAds\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "andreaortu",
-            "email": "andrea.ortu@smart-contact.it"
-        }
-    ],
-    "require": {
-        "googleads/google-ads-php": "^14.0"
+  "name": "smart-contact/laravel-google-ads",
+  "description": "A laravel package for google ads",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "SmartContact\\LaravelGoogleAds\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "andreaortu",
+      "email": "andrea.ortu@smart-contact.it"
+    }
+  ],
+  "require": {
+    "googleads/google-ads-php": "^18.0"
+  }
 }
