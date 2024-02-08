@@ -6,7 +6,7 @@ class GoogleAdsRow
 {
     private $result;
 
-    public function toJson(\Google\Ads\GoogleAds\V13\Services\GoogleAdsRow $googleAdsRow): GoogleAdsRow
+    public function toJson(\Google\Ads\GoogleAds\V15\Services\GoogleAdsRow $googleAdsRow): GoogleAdsRow
     {
         $this->result = json_decode($googleAdsRow->serializeToJsonString(), true);
         return $this;

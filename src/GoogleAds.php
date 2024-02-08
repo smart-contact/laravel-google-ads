@@ -4,7 +4,7 @@ namespace SmartContact\LaravelGoogleAds;
 
 use Google\Ads\GoogleAds\Lib\Configuration;
 use Google\Ads\GoogleAds\Lib\OAuth2TokenBuilder;
-use Google\Ads\GoogleAds\Lib\V13\GoogleAdsClientBuilder;
+use Google\Ads\GoogleAds\Lib\V15\GoogleAdsClientBuilder;
 use Illuminate\Support\Facades\Config;
 
 class GoogleAds
